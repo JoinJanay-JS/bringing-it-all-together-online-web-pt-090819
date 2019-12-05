@@ -1,8 +1,5 @@
 class Dog
   attr_accessor :id, :name, :breed
-  
-  lass Dog
-  attr_accessor :id, :name, :breed
 
   def initialize(attributes)
     #id: nil, name:, breed:
